@@ -1,4 +1,4 @@
 ###Running instruction
 ```ruby
-ruby github_score.rb
+ruby price_calculator.rb
 ```
